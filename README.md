@@ -1,1 +1,2 @@
 # solutions-java-tech
+今天是个好日子
